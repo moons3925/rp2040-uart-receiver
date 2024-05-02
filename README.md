@@ -12,4 +12,4 @@
 
 詳しくは以下をご覧になってください。
 
-[ラズピコでRust　環境構築編](https://moons.link/pico/post-1137/)
+[ラズピコでRust　UARTでリングバッファを使ってみる](https://moons.link/pico/post-1282/)
